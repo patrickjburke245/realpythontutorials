@@ -3,7 +3,7 @@
 Tutorials by Joanna Jablonski (https://github.com/jablonskidev):
 
 Python 3's f-Strings: An Improved String Formatting Syntax (Guide) (https://realpython.com/python-f-strings/)
-| My file:
+| My file: f-string.py
 
 Tutorials by David Amos (https://github.com/somacdivad):
 
